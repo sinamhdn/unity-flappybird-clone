@@ -1,2 +1,2 @@
 # FlappyBirdRipoff
- Practice flappy bird like simple game using unity engine
+flappy bird like simple game practice using unity engine and with custom assets

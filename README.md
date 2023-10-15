@@ -1,9 +1,6 @@
 # FlappybirdClone
 flappy bird like simple game using unity engine and with custom 2d assets
 
-## Unity Version
-2022.3.2f1 LTS
-
 ## Concepts learned
 - Adding script to an empty Game Object for general logic of the game
 - SpriteRendrer component
@@ -19,4 +16,7 @@ flappy bird like simple game using unity engine and with custom 2d assets
 - Loading Scenes from script
 - Destroying GameObject from script
 
-### NOTE: REMEMBER TO OPEN "DefaultScene.unity"
+## NOTE: REMEMBER TO OPEN "DefaultScene.unity"
+
+## Unity Version
+2022.3.2f1 LTS

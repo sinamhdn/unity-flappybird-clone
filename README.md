@@ -10,7 +10,7 @@ flappy bird like simple game using unity engine and with custom 2d assets
 - BoxCollider2D component to detect collisions between GameObjects
 - EventSystem, UI GameObject to inform and trigger UI changes
 - Creating UI using Canvas GameObject
-- Spawn Game Object programmatically from script
+- Spawning GameObject programmatically from script
 - Finding GameObject inside script using Tags
 - Using Collision Layers to differentiate between collisions
 - Using RidgidBody component on GameObjects to add physics effect to it

@@ -12,7 +12,7 @@ flappy bird like simple game using unity engine and with custom 2d assets
 - Creating UI using Canvas GameObject
 - Spawn Game Object programmatically from script
 - Finding GameObject inside script using Tags
-- Using collision Layers to differentiate between collisions
+- Using Collision Layers to differentiate between collisions
 - Using RidgidBody component on GameObjects to add physics effect to it
 - Setting GameObject name from script
 - How to use keyboard inputs

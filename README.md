@@ -4,7 +4,7 @@ flappy bird like simple game using unity engine and with custom 2d assets
 ## Unity Version
 2022.3.2f1 LTS
 
-## Concepts
+## Concepts Learned
 - Adding script to an empty Game Object for general logic of the game
 - SpriteRendrer component
 - BoxCollider2D component to detect collisions between GameObjects

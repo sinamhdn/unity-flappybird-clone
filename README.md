@@ -21,5 +21,6 @@ flappy bird like simple game using unity engine and with custom 2d assets
 - Loading Scenes from script
 - Destroying GameObject from script
 
+## Important Notes
 **NOTE: REMEMBER TO OPEN "DefaultScene.unity"**
 

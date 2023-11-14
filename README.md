@@ -1,5 +1,5 @@
 # FlappybirdClone
-flappy bird like simple game using unity engine and with custom 2d assets
+Flappy Bird like demo project using unity engine and with custom 2d assets
 
 ![screenshot](https://github.com/sinamhdn/unity-flappybird-clone/assets/34884156/d9a6b09e-117a-4ede-a030-2e9fbd199dd5)
 

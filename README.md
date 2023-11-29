@@ -1,4 +1,4 @@
-# FlappybirdClone
+# Flappybird Clone
 Flappy Bird clone demo project using unity engine and with custom 2d assets
 
 ![screenshot](https://github.com/sinamhdn/unity-flappybird-clone/assets/34884156/d9a6b09e-117a-4ede-a030-2e9fbd199dd5)
@@ -6,7 +6,7 @@ Flappy Bird clone demo project using unity engine and with custom 2d assets
 ## Unity Version
 2022.3.2f1 LTS
 
-## Concepts Used
+## Concepts
 - Adding script to an empty Game Object for general logic of the game
 - SpriteRendrer component
 - BoxCollider2D component to detect collisions between GameObjects
